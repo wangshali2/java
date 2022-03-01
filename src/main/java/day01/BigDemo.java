@@ -29,6 +29,7 @@ public class BigDemo {
         BigDecimal big2 = new BigDecimal(1.1);
 
 
+
         BigDecimal big3 = new BigDecimal("2.0");//String 类的精确
         BigDecimal big4 = new BigDecimal("1.1");
 
